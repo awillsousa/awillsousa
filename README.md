@@ -90,11 +90,11 @@ Icons: https://simpleicons.org/
 
 <br>
 <br>
-
+<!--
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=awillsousa&badges=5&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
-
+-->
 <br/>
 
 ## Coding Activity
