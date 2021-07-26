@@ -16,7 +16,7 @@ Icons: https://simpleicons.org/
 
 
 - :brazil: Brazillian (Curitiba - Paraná / PR)
-- :man_student: Graduated in Analyse and Development System at [FATEC-SP](http://www.fatecsp.br/)
+- :man_student: Graduated in Analysis and Software Development at [FATEC-SP](http://www.fatecsp.br/)
 - :nerd_face: Master's Student in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
 
 <br/><br/>
