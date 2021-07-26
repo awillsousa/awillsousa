@@ -15,7 +15,7 @@ Icons: https://simpleicons.org/
 <!--![Visitors](https://badges.pufler.dev/visits/awillsousa/awillsousa)-->
 
 
-- :brazil: Brazillian (Curitiba - Paraná / PR)
+- :brazil: Brazillian (<img height="32" src="https://emojis.slackmojis.com/emojis/images/1450319442/13/1up.png?1450319442"> in Curitiba - Paraná / PR)
 - :man_student: Graduated in Analysis and Software Development at [FATEC-SP](http://www.fatecsp.br/)
 - :nerd_face: Master's Student in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
 
