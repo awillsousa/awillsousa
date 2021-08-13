@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I’m Antonio Willian, a software developer and master's student in Federal University of Paraná, experienced Linux enthusiast and a kungfu coach in my free time.
+I’m Antonio Willian, a software developer and Master in Computer Science, experienced Linux enthusiast and a kungfu coach in my free time.
 
 <!--
 Icons: https://simpleicons.org/
@@ -17,7 +17,7 @@ Icons: https://simpleicons.org/
 
 - :brazil: Brazillian (<img height="32" src="https://emojis.slackmojis.com/emojis/images/1450319442/13/1up.png?1450319442"> in Curitiba - Paraná / PR)
 - :man_student: Graduated in Analysis and Software Development at [FATEC-SP](http://www.fatecsp.br/)
-- :nerd_face: Master's Student in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
+- :nerd_face: Master in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
 
 <br/><br/>
 
