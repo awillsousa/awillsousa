@@ -66,7 +66,12 @@ Icons: https://simpleicons.org/
 
 <br>
 
-<a href="https://github.com/awillsousa/ccscore">
+<a href="https://github.com/awillsousa/dbintegration">  
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=dbintegration&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<a href="https://github.com/awillsousa/ccscore">  
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=ccscore&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -76,10 +81,8 @@ Icons: https://simpleicons.org/
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=BaseITD&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
-<a href="https://github.com/awillsousa/copy_and_hash">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=copy_and_hash&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/awillsousa/EyeofTiger">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=EyeofTiger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -87,6 +90,24 @@ Icons: https://simpleicons.org/
 <a href="https://github.com/awillsousa/OficinaPandas">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=OficinaPandas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+
+<a href="https://github.com/awillsousa/patch_classifiers">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=patch_classifiers&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/awillsousa/piscadama">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=piscadama&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<a href="https://github.com/awillsousa/DQGG">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=awillsousa&repo=DQGG&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 
 <br>
 <br>
