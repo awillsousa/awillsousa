@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I’m Antonio Willian, a software developer and Master in Computer Science, experienced Linux enthusiast and a kungfu coach in my free time.
+I’m Antonio Willian, a software developer and Master in Computer Science, experienced Linux enthusiast and a martial arts practitioner in my free time.
 
 <!--
 Icons: https://simpleicons.org/
